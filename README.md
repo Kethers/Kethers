@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I used to work as gameplay programmer at some top anime game incorporation
+- 🌱 I’m currently learning graphics API, hoping to work as game engine developer in the future
+- 🤔 I'm interested in computer graphics and game engine development
+- ⚡ C/C++, C#, Python
+
+![Kethers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethers&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethers&hide=jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/Kethers/github-readme-stats)
