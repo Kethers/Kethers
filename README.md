@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I used to work as gameplay programmer at some top anime game incorporation
-- 🌱 I’m currently learning graphics API, hoping to work as game engine developer in the future
+- 🌱 I’m currently learning low-level engine arch & techs and hope to work on them in the future
 - 🤔 I'm interested in computer graphics and game engine development
-- ⚡ C/C++, C#, Python
+- 🎮 I'm a ACT/RPG lover and mostly play console games
+- ⚡ C/C++, C#, Lua, Python
 
 ![Kethers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethers&show_icons=true&theme=tokyonight)
 
